@@ -1,0 +1,623 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201408 will be lost/reset.
+# Last config file used to build this data file was /home/saveasla/tmp/awstats/awstats.saveaslave.us.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2007                
+POS_TIME 2680                
+POS_VISITOR 11826               
+POS_DAY 15935               
+POS_DOMAIN 3450                
+POS_LOGIN 3878                
+POS_ROBOT 4033                
+POS_WORMS 4327                
+POS_EMAILSENDER 4458                
+POS_EMAILRECEIVER 4601                
+POS_SESSION 16699               
+POS_SIDER 16906               
+POS_FILETYPES 4736                
+POS_DOWNLOADS 4987                
+POS_OS 5035                
+POS_BROWSER 5190                
+POS_SCREENSIZE 5788                
+POS_UNKNOWNREFERER 5862                
+POS_UNKNOWNREFERERBROWSER 6381                
+POS_ORIGIN 6603                
+POS_SEREFERRALS 6740                
+POS_PAGEREFS 6895                
+POS_SEARCHWORDS 7120                
+POS_KEYWORDS 7322                
+POS_MISC 2344                
+POS_ERRORS 7419                
+POS_CLUSTER 3734                
+POS_SIDER_404 7563                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140901002005 5 774 8171443628389
+FirstTime 20140801065944
+LastTime 20140831180359
+LastUpdate 20140901174218 5 0 4 0 0
+TotalVisits 156                 
+TotalUnique 96                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 108                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 4 43526 80 86 151051
+1 4 15 480257 23 35 106843
+2 2 5 27458 5 10 15038
+3 0 1 21332 15 22 176815
+4 1 1 29063 8 14 22126
+5 4 16 332865 4 7 10632
+6 3 3 21591 3 6 10632
+7 3 9 296454 16 27 37361
+8 26 116 3688523 11 42 126650
+9 28 119 4869151 16 73 161011
+10 12 54 1954964 7 29 56482
+11 36 67 1702606 4 12 17875
+12 6 30 1182101 7 13 109988
+13 5 12 305699 10 20 60840
+14 10 26 740029 22 31 44171
+15 4 18 712263 8 14 14990
+16 7 14 378791 22 27 29475
+17 26 41 1142226 7 39 76270
+18 70 102 1601374 7 25 32130
+19 14 136 1554449 8 30 40753
+20 19 109 1338544 19 36 51546
+21 23 68 2264818 24 43 123113
+22 8 46 1332833 13 25 122182
+23 1 2 21763 1 2 1772
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 193 846 25029766
+de 85 85 657908
+ua 9 9 52532
+lv 6 6 862
+bg 4 51 206296
+lu 3 3 16715
+fr 2 2 8741
+ro 2 2 8741
+nl 2 2 862
+ph 1 1 431
+ru 1 1 431
+gb 1 1 29063
+hk 1 1 431
+ca 1 1 8310
+pl 1 1 431
+fi 1 1 20729
+lt 1 1 431
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 115 439322 20140829160347 0
+bot[\s_+:,\.\;\/\\-] 55 345851 20140831015506 0
+robot 5 2155 20140822221030 0
+[\s_+:,\.\;\/\\-]bot 2 69236 20140802121534 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 226 847621 0 0
+eot 1 37374 0 0
+png 200 10000341 0 0
+woff 3 112568 0 0
+php 6 29118 0 0
+html 289 3278549 0 0
+js 51 318895 0 0
+jpg 218 11083265 0 0
+Unknown 15 332261 0 0
+gif 5 2688 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 11
+winlong 28
+winxp 94
+winnt 5
+win2000 1
+linux 42
+winvista 445
+win7 190
+macosx 164
+linuxgentoo 1
+win2003 2
+Unknown 42
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 37
+safari7.0 145
+firefox28.0 1
+msie6.0 82
+firefox5.0 1
+chrome29.0.1547.57 1
+firefox4.0 1
+firefox18.0 1
+firefox6.5.3 1
+lynx 1
+chrome36.0.1985.125 56
+opera9.80 7
+firefox31.0 431
+msie8.0 2
+msie7.0 1
+firefox23.0 1
+firefox3.6.9 1
+wget 2
+firefox2.1.3 1
+msie9.0 22
+Unknown 35
+firefox3.9.3 1
+chrome21.0.1180.75 23
+chrome34.0.1847.131 1
+firefox30.0 1
+chrome35.0.1916.114 1
+firefox1.0.7 1
+chrome36.0.1985.143 4
+mozilla 132
+chrome24.0.1312.60 2
+firefox1.4.6 1
+firefox14.0.1 1
+msie10.0 16
+firefox8.0.1 12
+safari 12
+firefox3.6.8 9
+firefox15.0.1 1
+firefox3.0.15 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Datanyze 20140818163033
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140814021714
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20140816054503
+Mozilla/5.0_(compatible;_Yahoo_Link_Preview;_https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html) 20140806105622
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20140831100951
+NerdyBot 20140831111010
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Datanyze 20140818163033
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20140816054503
+NerdyBot 20140831111010
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 211 260
+From1 0 0
+From2 3 3
+From3 5 5
+From4 95 746
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://wmaid.com/explore/saveaslave.us/ 4 4
+http://my.dudamobile.com/new 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+wmaid.com+explore+saveaslave.us 2
+saveaslave.us 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+saveaslave.us 3
+explore 2
+wmaid.com 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 1878
+302 12 2364
+206 2 5432
+303 2 0
+301 15 2388
+404 410 726520
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 145
+/forums/install/upgrade.php 1 -
+/admin.php 4 -
+/mysqladmin/ 1 -
+/administrator/index.php/administrator/index.php 1 -
+/templates/ja_magz/fonts/novecentowide/stylesheet.css 2 -
+/forum/install/upgrade.php 1 -
+/forums/members/1.html 1 -
+/cest/ 1 -
+/images/slaves.jpg 7 -
+/phpMyAdmin-4/ 1 -
+/templates/ja_magz/js/jquery.infinitescroll.min.js 1 -
+/phpMyAdmin-2.10.0/ 1 -
+/phpMyAdmin-3.1.4/ 1 -
+/search 2 -
+//index.php 1 -
+/phpMyAdmin-2.11.6/ 1 -
+/phpMyAdmin-2.10.3/ 1 -
+/phpMyAdmin-2.11.0/ 1 -
+/pma/ 1 -
+/web/phpMyAdmin/ 1 -
+/administrator/index.php/user/ 1 -
+/media/jui/js/jquery.min.js 1 -
+/plugins/system/t3/base/js/menu.js 2 -
+/arcade.php 1 -
+/phpMyAdmin-2.11.4/ 1 -
+/myadmin/ 1 -
+/admin/pma/ 1 -
+/administrator/ 4 -
+/media/jui/js/jquery-migrate.min.js 4 -
+/phpMyAdmin-3.1.0/ 1 -
+/phpMyAdmin-3.3.0/ 1 -
+/media/sobipro/images/tmpl/default/folder_home.png 2 -
+/phpMyAdmin-2.6.3/ 1 -
+/wp-login.php 6 -
+/phpMyAdmin-3.1.5/ 1 -
+/index.php/directory' 1 -
+/media/sobipro/images/tmpl/default/knewsticker.png 1 -
+/phpmy/ 1 -
+/modules/mod_fxprev/libraries/archives.php 1 -
+/phpMyAdmin-2.5.6/ 1 -
+/phpMyAdmin1/ 1 -
+/phpMyAdmin-2.6.2-rc1/ 1 -
+/phpMyAdmin-3.2.2/ 1 -
+/administrator/index.php/bitrix/admin/index.php 1 -
+/phpMyA/ 1 -
+/forum/arcade.php 1 -
+/media/sobipro/images/tmpl/default/view-barcode-add.png 1 -
+/wp-admin 1 -
+/admin/phpmyadmin/ 1 -
+/phpMyAdmin-2.11.2/ 1 -
+/images/stopslavery.jpg 6 http://my.dudamobile.com/site/saveaslave4
+/phpMyAdmin-2.6.0/ 1 -
+/phpMyAdmin-3.3.4-rc1/ 1 -
+/PMA/ 1 -
+/productinfo.php 1 -
+/templates/ja_magz/css/print.css 2 -
+/phpMyAdmin-2.2.3/ 1 -
+/plugins/system/t3/base/js/jquery.equalheight.js 2 -
+/media/system/css/system.css 2 -
+/administrator/index.php 1 -
+/phpMyAdmin-2.6.0-pl1/ 1 -
+/images/sadchild.jpg 5 http://my.dudamobile.com/site/saveaslave4
+/products.php 1 -
+/administrator/index.php/admin.php 1 -
+/phpMyAdmin-2.11.10/ 1 -
+/forums/vbseocp.php 2 -
+/phpMyAdmin-3.3.3-rc1/ 1 -
+/product.php 1 -
+/phpMyAdmin-3.1.1/ 1 -
+/shop.php 1 -
+/phpMyAdmin-2.11.8.1/ 1 -
+/phpMyAdmin-3.3.4/ 1 -
+/phpMyAdmin-3.1.3/ 1 -
+/phpMyAdmin-2.10.2/ 1 -
+/media/sobipro/images/tmpl/default/laptop.png 2 -
+/phpMyAdmin-2.5.4/ 1 -
+/phpMyAdmin-2.11.1/ 1 -
+/robots.txt 105 -
+/index.php/component/tags/tag/2-joomla 10 -
+/phpMyAdmin-2.10.1/ 1 -
+/phpMyAdmin-3.3.1/ 1 -
+/db/ 1 -
+/forums/vbseo.php 1 -
+/phpmyad-sys/ 1 -
+/images/givebtn.png 5 http://my.dudamobile.com/site/saveaslave4
+/forum/vbseocp.php 2 -
+/forum/members/1.html 1 -
+/media/sobipro/images/tmpl/default/Cardgame.png 2 -
+/phpMyAdmin-3.2.3/ 1 -
+/vbseo.php 1 -
+/phpMyAdmin-2.6.3-pl1/ 1 -
+/phpMyAdmin-3/ 1 -
+/vbseocp.php 2 -
+/phpmyadmin/ 1 -
+/phpMyAds/ 1 -
+/mysql/ 1 -
+/plugins/system/t3/base/js/script.js 3 -
+/phpMyAdmin-2.11.3/ 1 -
+/index.php/component/tags/tag/2 1 -
+/administrator/index.php/wp-login.php 1 -
+/components/com_sobipro/var/css/a16e7d2f34a428a8d2e55f4b2927e25a.css 1 -
+/search/ 3 -
+/forums/arcade.php 1 -
+/setup.exe 1 -
+/test/images/countrymap/Finland.jpg 8 http://saveaslave.us/test/finland.html
+/phpMyAdmin-2.11.9/ 1 -
+/css/style.css 3 -
+/phpMyAdmin-3.3.2-rc1/ 1 -
+/phpmyadmin2/ 1 -
+/phpMyAdmi/ 1 -
+/phpMyAdmin-3.2.4/ 1 -
+/phpm/ 1 -
+/administrator 1 -
+/admin/mysql/ 1 -
+/phpMyAdmin-2.11.5/ 1 -
+/phpmyad/ 1 -
+/cesc/ 1 -
+/phpMyAdmin-2/ 1 -
+/phpMyAdmin-3.0.1/ 1 -
+/forum/vbseo.php 1 -
+/phpMyAdmin-3.3.2/ 1 -
+/administrator/index.php/admin/login.php 1 -
+/administrator/index.php/admin/ 1 -
+/Etc/GMT 3 http://saveaslave.us/Etc/GMT
+/index.php/directory 72 -
+/images/header.png 1 -
+/phpMyAdmin-2.11.7/ 1 -
+/templates/system/css/system.css 2 -
+/phpMyAdmin-2.2.6/ 1 -
+/install/upgrade.php 1 -
+/components/com_sobipro/var/js/e32ab0b090fa77cbfd374b798d936567.js 1 -
+/members/1.html 2 -
+/phpMyAdmin-2.5.1/ 1 -
+/phpMyAdmin-3.0.0/ 1 -
+/search.php 2 -
+/phpMyAdmin-3.2.5/ 1 -
+/media/sobipro/images/tmpl/default/virussafe.png 3 -
+/phpMyAdmin-2.6.3-rc1/ 1 -
+/phpMyAdmin-3.2.1/ 1 -
+/phpMyAdmin-3.2.0/ 1 -
+/phpMyAdmin-3.1.2/ 1 -
+/index.php 17 -
+/mysql-admin/ 1 -
+/dbadmin/ 1 -
+/phpMyAdmin-3.3.3/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 108
+68.187.201.190 80 422 12979911 20140827080624
+176.9.124.163 14 14 37550 20140830180354
+5.9.137.227 13 13 200843 20140806180025
+5.9.137.230 13 13 185085 20140821180242
+107.20.144.201 11 21 652943 20140819090153
+72.168.98.122 9 36 1236460 20140821015652
+94.244.157.180 8 8 23469 20140812075215
+5.9.137.231 6 6 59850 20140831180359
+176.9.116.134 6 6 59850 20140826180301
+176.9.116.136 6 6 18344 20140822180245
+72.168.96.126 6 39 1099358 20140822153519
+176.9.113.138 6 6 2586 20140820180209
+188.92.76.167 6 6 862 20140816065130
+72.168.98.120 5 59 672223 20140826210727
+72.168.96.123 5 29 1253093 20140815191617
+72.168.98.115 4 16 635860 20140823174445
+87.118.135.65 4 51 206296 20140811131252
+5.9.137.235 4 4 1724 20140827180258
+72.168.98.116 4 20 520540 20140827152531
+212.227.58.213 4 4 5572 20140808163308
+72.168.98.121 4 22 619616 20140811091057
+32.214.174.153 3 20 868130 20140826213648
+94.242.239.176 3 3 16715 20140801182635
+67.233.182.154 3 15 590553 20140824211319
+99.166.173.48 3 15 618821 20140818104952
+107.178.220.240 1 1 431 20140823111132
+176.9.124.164 2 2 58126 20140808180028
+54.164.48.139 0 1 7643 
+54.86.159.184 0 1 166 
+74.6.254.138 1 1 8310 20140806105622
+83.103.196.49 1 1 8310 20140804210458
+130.211.134.155 1 1 431 20140812111525
+107.20.227.187 1 7 294555 20140808094021
+76.250.226.62 0 1 64009 
+107.170.110.166 1 1 431 20140820153806
+72.168.96.124 1 7 294697 20140824103830
+72.168.98.118 2 15 542297 20140824223001
+108.59.87.131 1 1 431 20140816111246
+198.178.124.47 1 1 8310 20140803134845
+130.211.150.66 1 1 8310 20140806111903
+70.208.79.54 0 1 64009 
+188.226.189.197 1 1 431 20140811213854
+107.178.200.46 1 1 431 20140816054503
+91.121.92.177 2 2 8741 20140821004600
+46.229.170.197 2 2 862 20140821215425
+74.6.254.89 1 1 8310 20140804143516
+176.9.116.133 2 2 862 20140824180300
+107.178.216.56 1 1 431 20140827111021
+130.211.184.63 1 1 431 20140817111328
+176.9.113.136 2 2 862 20140828180304
+54.83.54.205 1 7 294697 20140819085419
+130.211.167.86 1 1 431 20140829111026
+157.55.39.78 0 2 6126 
+176.9.113.139 2 2 862 20140825180302
+173.255.117.7 1 1 431 20140815111344
+130.211.189.62 2 2 8741 20140830110937
+78.158.11.226 1 1 431 20140831100951
+192.99.147.201 1 1 20729 20140801065944
+203.83.248.32 1 1 431 20140818224745
+38.100.21.69 1 1 431 20140820120545
+130.211.167.27 1 1 431 20140826111033
+146.148.47.113 1 1 431 20140824111254
+130.211.165.17 1 1 431 20140811133533
+91.188.124.169 1 1 431 20140820080746
+176.9.113.140 2 2 16620 20140805180016
+130.211.112.163 1 1 8310 20140807111327
+146.148.41.214 1 1 8310 20140803110221
+130.211.121.125 1 1 28612 20140808111404
+159.247.160.66 0 1 64009 
+146.148.32.235 1 1 13709 20140802111325
+54.164.230.56 0 3 163914 
+54.84.253.236 0 1 3932 
+107.178.222.51 1 1 431 20140822111114
+146.148.47.135 1 1 29063 20140809111330
+130.211.185.234 1 1 431 20140811111317
+162.222.182.159 1 1 431 20140818111341
+66.228.162.8 2 7 197451 20140827143250
+146.148.47.88 1 1 431 20140821111512
+54.164.113.117 0 1 12054 
+54.88.198.58 1 1 431 20140818183051
+130.211.168.79 1 1 13709 20140801110833
+107.178.210.213 1 1 431 20140819111144
+146.148.40.1 1 1 8310 20140804110215
+146.148.43.46 1 1 431 20140813111424
+70.215.12.253 0 1 64009 
+107.178.221.156 1 1 431 20140814111453
+173.255.112.116 1 1 431 20140820111315
+46.4.48.68 1 1 8310 20140807050510
+50.136.202.44 1 7 295061 20140815203139
+130.211.163.143 1 1 29063 20140810111302
+212.100.243.113 1 1 29063 20140815195435
+54.88.163.173 0 13 277316 
+104.131.207.64 1 1 431 20140818163033
+146.148.45.6 1 1 431 20140828111045
+166.205.55.26 1 1 431 20140811144326
+162.220.58.244 1 2 8474 20140805011311
+69.58.178.57 1 1 8310 20140807181601
+188.241.141.178 1 1 431 20140814082819
+72.168.98.117 1 7 294573 20140808113925
+198.100.144.220 1 1 8310 20140807092928
+54.84.89.174 0 1 130528 
+68.101.167.158 1 1 431 20140811235718
+54.88.220.157 1 1 431 20140814185557
+130.211.177.114 1 1 431 20140825111119
+91.223.223.217 1 1 29063 20140810040826
+146.148.54.147 1 1 431 20140831111010
+176.9.116.135 2 2 862 20140815180210
+54.85.52.115 3 3 1293 20140826013706
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20140801 20 22 256613 7
+20140802 35 211 2200539 6
+20140803 4 4 33240 3
+20140804 6 11 326709 5
+20140805 5 10 254554 4
+20140806 6 12 390718 5
+20140807 11 14 212573 7
+20140808 58 287 11259250 11
+20140809 6 25 770383 4
+20140810 12 24 708960 8
+20140811 10 11 6307 9
+20140812 4 4 2686 3
+20140813 3 3 1293 2
+20140814 7 7 2155 5
+20140815 13 49 1874433 8
+20140816 9 27 621771 6
+20140817 8 34 889414 4
+20140818 9 34 680024 7
+20140819 13 38 1208159 5
+20140820 10 22 326844 8
+20140821 6 15 451744 5
+20140822 5 11 296421 4
+20140823 6 15 480012 3
+20140824 7 25 774709 5
+20140825 3 3 1293 2
+20140826 17 59 1362482 6
+20140827 8 22 501209 5
+20140828 3 4 131821 2
+20140829 3 4 13347 2
+20140830 3 3 1293 2
+20140831 4 4 1724 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 3
+2mn-5mn 2
+15mn-30mn 3
+0s-30s 142
+30s-2mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 219 2183376 126 118
+/test/ 43 1036143 20 23
+/index.php/directory 13 308551 1 3
+/test/finland.html 11 33940 2 3
+/mod_sec.html 11 15323 5 5
+/administrator/index.php 3 13410 0 1
+/administrator/ 3 9679 1 0
+/index.php 3 15708 1 1
+/index.php/component/tags/tag/2-joomla 2 23710 0 0
+/templates/ja_magz/ 2 88 0 0
+/templates/ja_magz/fonts/font-awesome/font/fontawesome-webfont.woff 2 87144 0 1
+/media/jui/fonts/IcoMoon.woff 1 25424 0 0
+/templates/ja_magz/fonts/font-awesome/font/fontawesome-webfont.eot 1 37374 0 1
+END_SIDER

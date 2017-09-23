@@ -1,0 +1,597 @@
+# Webalizer V2.23-05 Incremental Data - 10/15/2014 14:50:15
+2014 10 15 14 50 15
+491 334 86 24 21 59 4031206 278 202 0
+5 3 27 1 15
+16 11 13601 7 11 7
+23 19 15277 7 19 18
+23 21 12595 8 21 14
+20 17 12643 11 18 17
+23 18 16618 10 18 14
+19 15 12691 9 16 14
+28 23 18773 9 23 16
+25 17 21503 11 17 16
+20 12 19348 9 12 8
+16 7 18965 10 8 7
+45 22 437569 12 23 17
+36 23 460663 13 17 15
+140 98 2485151 19 49 23
+40 24 466601 13 17 10
+17 7 19208 5 9 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+11 8 8764 9
+4 3 3065 3
+13 8 12308 8
+8 4 8812 4
+6 5 3927 5
+29 21 22365 21
+12 8 10536 8
+22 12 216140 9
+31 20 263961 16
+32 26 575787 13
+28 17 326845 13
+32 25 23179 26
+9 4 7620 6
+21 8 22085 13
+41 27 644598 19
+27 17 411547 14
+24 18 280888 10
+8 5 7471 5
+14 10 11398 10
+41 34 25286 35
+13 9 205141 5
+12 5 14559 6
+32 25 647163 12
+21 15 277761 8
+0
+0
+0
+334
+0
+0
+0
+0
+0
+1
+0
+12
+1
+0
+4
+0
+0
+0
+0
+0
+0
+139
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/test/images/countrymap/albania.jpg
+0 2 3977855168379170352 74166 0 0
+/test/images/countrymap/cape-verde-flag.jpg
+0 2 4756140054478794289 5400 0 0
+/test/belize.html
+0 1 72057594037927936 4199 0 0
+/test/images/givebtn.png
+0 17 7165901503665106023 445043 0 0
+/test/azerbaijan.html
+0 1 87034253148435249 4220 0 0
+/test/images/countrymap/afghanistan-flag.jpg
+0 3 3544665166336373303 6939 0 0
+/test/images/countrymap/afghanistan.jpg
+0 3 7171939 64872 0 0
+/test/images/countrymap/azerbaijan.jpg
+0 1 3977573693301601844 45011 0 0
+/test/images/countrymap/andorra-flag.jpg
+0 1 92402672599353 2583 0 0
+/test/
+0 17 28984096 348300 9 7
+/test/images/header.png
+0 17 0 1439186 0 0
+/test/images/countrymap/belize.jpg
+0 1 0 21248 0 0
+/test/andorra.html
+0 1 0 4195 0 0
+/test/images/countrymap/andorra.jpg
+0 1 0 17701 0 0
+/test/images/countrymap/belize-flag.gif
+0 1 0 2303 0 0
+/test/css/style.css
+0 16 0 4320 0 0
+/test/images/countrymap/albania-flag.jpg
+0 2 0 5416 0 0
+/test/afghanistan.html
+0 3 0 12681 0 1
+/
+0 225 0 95251 187 110
+/test/images/countrymap/azerbaijan-flag.jpg
+0 1 0 2191 0 0
+/test/images/slaves.jpg
+0 17 0 1088153 0 0
+/test/images/countrymap/cape-verde.jpg
+0 2 0 71214 0 0
+/test/albania.html
+0 2 0 8388 0 0
+/test/cape-verde.html
+0 2 0 8482 0 1
+# End Of Table - urls
+# -sites- (monthly)
+host721680012696.direcway.com
+0 7 5 198951 1 1413214489
+/test/
+12.83.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412507783
+/
+crawl-192-99-107-28.meanpathbot.com
+0 2 1 2203 1 1412964689
+/
+host721680011798.direcway.com
+0 10 8 243033 1 1413154481
+/test/cape-verde.html
+187.73.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412334988
+/
+crawl-192-99-39-76.meanpathbot.com
+0 2 1 2203 1 1412179557
+/
+spider-100-43-85-7.yandex.com
+0 67 28 81176 7 1413352690
+/
+spider-100-43-90-12.yandex.com
+0 1 0 1772 0 0
+-
+211.83.148.146.bc.googleusercontent.com
+0 1 1 431 1 1413026044
+/
+128.146.251.23.bc.googleusercontent.com
+0 1 1 431 1 1412248166
+/
+ec2-54-88-198-11.compute-1.amazonaws.com
+0 1 1 431 1 1412347432
+/
+ec2-54-172-70-110.compute-1.amazonaws.com
+0 1 1 431 1 1412347359
+/
+137.76.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412161971
+/
+crawl-66-249-69-209.googlebot.com
+0 13 6 14990 9 1413304843
+/
+spider-5-255-253-58.yandex.com
+0 6 4 5268 1 1413168665
+/
+60.182.222.162.bc.googleusercontent.com
+0 1 1 431 1 1412853449
+/
+128.83.59.108.bc.googleusercontent.com
+0 1 1 431 1 1413285275
+/
+pld.1h.com
+0 28 18 603693 3 1413213027
+/test/
+static.231.137.9.5.clients.your-server.de
+0 4 4 1724 2 1413142030
+/
+crawl-192-99-39-75.meanpathbot.com
+0 2 1 2203 1 1412213765
+/
+188.225.76.12
+0 1 0 1772 0 0
+-
+eagle408.server4you.net
+0 1 1 431 1 1413121072
+/
+static.167.151.9.5.clients.your-server.de
+0 2 2 862 1 1412450723
+/
+static.139.113.9.176.clients.your-server.de
+0 2 2 862 1 1413055631
+/
+176.89.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412939664
+/
+msnbot-157-55-39-234.search.msn.com
+0 2 0 3544 1 1413383700
+/
+spider-100-43-90-9.yandex.com
+0 3 1 3975 1 1413011348
+/
+31.223.178.107.bc.googleusercontent.com
+0 1 1 431 1 1412594220
+/
+crawl-192-99-107-208.meanpathbot.com
+0 4 2 4406 2 1413006309
+/
+static.235.137.9.5.clients.your-server.de
+0 4 4 1724 2 1412710038
+/
+96.63.76.4
+0 8 6 199378 1 1413210684
+/test/
+hamburg161.startdedicated.com
+0 1 0 1772 1 1412602689
+-
+crawl-66-249-69-18.googlebot.com
+0 14 4 19444 8 1413304911
+/
+static.170.151.9.5.clients.your-server.de
+0 2 2 862 1 1413314922
+/
+217.63.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412421424
+/
+crawl-192-99-39-81.meanpathbot.com
+0 2 1 2203 1 1412151410
+/
+crawl-66-249-69-193.googlebot.com
+0 8 6 6130 6 1413221841
+/
+crawl-66-249-69-11.googlebot.com
+0 10 2 15038 5 1413221865
+/
+69.58.178.58
+0 2 1 2203 1 1412713152
+/
+ec2-54-172-127-87.compute-1.amazonaws.com
+0 1 1 431 1 1413127846
+/
+cardnews.infium.net
+0 1 1 431 1 1412459317
+/
+host721680012396.direcway.com
+0 1 0 243 1 1413208385
+-
+91.250.15.69
+0 8 8 3448 2 1412720996
+/
+static.134.116.9.176.clients.your-server.de
+0 2 2 862 1 1413228504
+/
+87.118.135.146
+0 9 3 10396 4 1413378148
+-
+nat-vlan550.las1.sco.cisco.com
+0 2 2 862 2 1413220615
+/
+83.103.196.49
+0 1 1 431 1 1413004422
+/
+static.133.116.9.176.clients.your-server.de
+0 2 2 862 1 1412537169
+/
+static.229.137.9.5.clients.your-server.de
+0 2 2 862 1 1412623639
+/
+ns504861.ip-192-99-149.net
+0 65 60 34720 60 1413283751
+/
+host721680012198.direcway.com
+0 19 15 372725 1 1413194880
+-
+35.35.148.146.bc.googleusercontent.com
+0 1 1 431 1 1413112464
+/
+crawl-66-249-69-250.googlebot.com
+0 8 6 6130 6 1413092039
+/
+mail.asurion.com
+0 14 9 314051 2 1413204137
+/
+68-187-201-190.dhcp.ahvl.nc.charter.com
+0 35 27 911491 5 1413275687
+/test/albania.html
+185.112.211.130.bc.googleusercontent.com
+0 1 1 431 1 1413371716
+/
+u16850951.onlinehome-server.com
+0 1 0 1772 0 0
+-
+112.117.211.130.bc.googleusercontent.com
+0 1 1 431 1 1413198865
+/
+www.whois.sc
+0 2 1 2203 1 1412780496
+/
+crawl-192-99-107-100.meanpathbot.com
+0 2 1 2203 1 1412832358
+/
+ec2-54-165-62-24.compute-1.amazonaws.com
+0 1 1 431 1 1412741916
+/
+ec2-54-172-80-67.compute-1.amazonaws.com
+0 1 1 431 1 1412741813
+/
+msnbot-207-46-13-37.search.msn.com
+0 2 1 2203 1 1413345492
+/
+174.36.196.245-static.reverse.softlayer.com
+0 1 1 431 1 1413271487
+/
+118.93.148.146.bc.googleusercontent.com
+0 1 1 431 1 1412766990
+/
+185.4.72.63
+0 1 0 580 0 0
+-
+dedic336.hidehost.net
+0 4 3 3065 2 1413286138
+/
+207.102.138.3
+0 1 1 431 1 1412287593
+/
+static.168.124.9.176.clients.your-server.de
+0 2 2 862 1 1412969261
+/
+crawl-192-99-107-64.meanpathbot.com
+0 8 4 8812 4 1413199718
+/
+ns353243.ip-91-121-92.eu
+0 1 1 431 1 1412398396
+/
+india186.dedicatedpanel.com
+0 1 1 431 1 1413123504
+/
+crawl-66-249-69-177.googlebot.com
+0 6 2 7950 2 1413011139
+/
+ec2-54-164-2-88.compute-1.amazonaws.com
+0 4 4 1724 4 1412416103
+/
+www40206u.sakura.ne.jp
+0 1 1 431 1 1412855579
+/
+c74-197-223-88.dh.suddenlink.net
+0 30 24 698083 3 1413242242
+/test/andorra.html
+minden054.server4you.de
+0 1 1 431 1 1412695662
+/
+29.117.255.173.bc.googleusercontent.com
+0 1 1 431 1 1412680577
+/
+crawl-192-99-39-82.meanpathbot.com
+0 2 1 2203 1 1412198083
+/
+static.168.151.9.5.clients.your-server.de
+0 2 2 862 1 1412191410
+/
+unknown-66-228-162-x.yahoo.com
+0 14 8 205556 2 1413275259
+/
+vh17.sweb.ru
+0 1 1 431 1 1412551765
+/
+cl-78-158-11-226.fastlink.lt
+0 1 1 431 1 1412421917
+/
+188.92.76.167
+0 2 2 0 1 1412571885
+/
+static.228.137.9.5.clients.your-server.de
+0 2 2 862 1 1412796442
+/
+static.136.116.9.176.clients.your-server.de
+0 2 2 862 1 1412882838
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+spider-100-43-85-7.yandex.com
+0 8 4 8812 1 1413352690
+/
+msnbot-157-55-39-234.search.msn.com
+0 2 0 3544 1 1413383700
+/
+87.118.135.146
+0 4 1 4218 2 1413378148
+-
+185.112.211.130.bc.googleusercontent.com
+0 1 1 431 1 1413371716
+/
+msnbot-207-46-13-37.search.msn.com
+0 2 1 2203 1 1413345492
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://saveaslave.us/test/albania.html
+0 2
+http://saveaslave.us
+0 1
+http://mono.name
+0 4
+() 
+0 1
+http://www.google.com/url
+0 1
+http://www.saveaslave.us/test/azerbaijan.html
+0 2
+http://whois.domaintools.com/saveaslave.us
+0 1
+http://support.siteground.com/tickets/1135823
+0 1
+http://saveaslave.us/test/
+0 43
+https://www.google.com/search
+0 1
+http://davistractor.com/soft.php
+0 2
+- (Direct Request)
+0 368
+http://www.realty101.com/
+0 1
+bing.com
+0 1
+http://saveaslave.us/
+0 28
+http://saveaslave.us/test/cape-verde.html
+0 4
+http://popsofthepast.us/
+0 1
+http://www.saveaslave.us/test/
+0 19
+http://saveaslave.us/test/belize.html
+0 2
+http://www.saveaslave.us/test/afghanistan.html
+0 4
+http://uni5download.com
+0 4
+# End Of Table - referrers
+# -agents- 
+Opera/9.80 (Windows NT 6.1  U  MRA 5.7 (build 03658)  ru) Presto/2.7.62 Version/11.01
+0 1
+() { :; }; echo Content-type:text/plain;echo;echo;echo M`expr 1330 + 7`H;
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 22
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 24
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4303)
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.43 Safari/534.24
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 30
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 41
+Mozilla/5.0 (Windows NT 6.0; rv:22.0) Gecko/20130405 Firefox/22.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 35
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.792.0 Safari/535.1
+0 1
+Opera/9.64 (Windows NT 5.1  U  MRSPUTNIK OW 2, 3, 0, 238  ru) Presto/2.1.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.648.127 Chrome/10
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4313)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 9
+Lynx/2.8.5rel.1 libwww-FM/2.15FC SSL-MM/1.4.1c OpenSSL/0.9.7e-dev
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4310)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4311)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4318)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 102
+Mozilla
+0 3
+Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 1
+curl/7.27.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4300)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 63
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.634.0 Safari/534.16
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/16.0.1
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.45 Safari/535.19
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 4
+NerdyBot
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4317)
+0 2
+Mozilla/5.1 (compatible; U5/1.0; +http://uni5download.com)
+0 4
+Who.is Bot
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4312)
+0 8
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.50
+0 1
+Mozilla/5.1 (compatible; MonoBot/1.0; +http://mono.name)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4319)
+0 4
+# End Of Table - agents
+# -search strings- 
+saveaslave.us
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

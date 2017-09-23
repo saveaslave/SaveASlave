@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#content {
+	background-color:# FFF;
+	width: 960px;
+	}
+
+#arttext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #666;
+	text-align: left;
+}
+
+#arttext a{
+	text-decoration:underline;
+	color: #666;
+	
+}
+	
+#countrylist{
+	overflow: scroll;
+	width: 300px;
+	height: 1500px;
+	overflow-x: hidden;
+
+}
+
+#countrylist a{
+	text-decoration:underline;
+	color: #666;
+
+}
+#footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:10px;
+}
+#footer a{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-decoration:underline;
+	color:#000;
+}

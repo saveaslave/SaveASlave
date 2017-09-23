@@ -1,0 +1,479 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201409 will be lost/reset.
+# Last config file used to build this data file was /home/saveasla/tmp/awstats/awstats.saveaslave.us.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2007                
+POS_TIME 2683                
+POS_VISITOR 8830                
+POS_DAY 12149               
+POS_DOMAIN 3374                
+POS_LOGIN 3734                
+POS_ROBOT 3889                
+POS_WORMS 4163                
+POS_EMAILSENDER 4294                
+POS_EMAILRECEIVER 4437                
+POS_SESSION 12842               
+POS_SIDER 13033               
+POS_FILETYPES 4572                
+POS_DOWNLOADS 4727                
+POS_OS 4775                
+POS_BROWSER 4918                
+POS_SCREENSIZE 5506                
+POS_UNKNOWNREFERER 5580                
+POS_UNKNOWNREFERERBROWSER 5800                
+POS_ORIGIN 5906                
+POS_SEREFERRALS 6044                
+POS_PAGEREFS 6199                
+POS_SEARCHWORDS 6793                
+POS_KEYWORDS 6945                
+POS_MISC 2347                
+POS_ERRORS 7004                
+POS_CLUSTER 3590                
+POS_SIDER_404 7125                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141001023218 10 1470 8817484097169
+FirstTime 20140901111019
+LastTime 20140930210103
+LastUpdate 20141001181012 10 0 9 0 0
+TotalVisits 136                 
+TotalUnique 86                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 86                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 431 7 13 13649
+1 1 1 431 7 13 16331
+2 3 3 431 12 17 15373
+3 6 6 1724 13 21 25143
+4 8 8 1724 1 3 3975
+5 2 2 0 13 22 22892
+6 3 3 1293 19 22 33620
+7 4 4 862 5 13 17672
+8 6 6 1724 9 17 19162
+9 1 1 431 10 13 14990
+10 16 24 245568 10 13 19726
+11 25 25 9482 3 6 9291
+12 3 3 1293 7 9 9243
+13 11 15 197709 12 20 16714
+14 3 9 254617 9 12 15703
+15 4 4 862 5 9 8812
+16 9 20 507319 10 18 18731
+17 13 21 287593 7 11 12787
+18 23 43 724655 22 35 30170
+19 70 130 1134311 6 20 26335
+20 4 10 246119 12 18 18486
+21 5 9 198053 3 8 8188
+22 1 1 431 5 9 9243
+23 1 5 196329 5 8 8812
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 107 238 3976757
+de 61 61 26291
+lv 31 31 0
+fi 12 12 5172
+ru 3 3 1293
+ua 2 2 862
+nl 2 2 862
+il 1 1 431
+kr 1 1 431
+fr 1 1 431
+nz 1 1 431
+eu 1 1 431
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bot[\s_+:,\.\;\/\\-] 118 49996 20140930215100 0
+googlebot 21 9051 20140930225343 0
+netcraft 1 431 20140911202855 0
+robot 1 0 20140930134317 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 18 3456 0 0
+png 38 1551718 0 0
+html 223 535944 0 0
+jpg 65 1868940 0 0
+gif 10 53334 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+winlong 10
+winxp 65
+linuxubuntu 1
+winvista 109
+linux 13
+win7 38
+macosx 84
+winme 1
+win2003 1
+Unknown 32
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 35
+safari7.0 70
+msie6.0 63
+chrome29.0.1547.57 1
+firefox20.0 1
+firefox3.6 1
+firefox26.0 1
+chrome5.0.375.99 1
+firefox4.0 1
+firefox18.0 1
+opera9.80 10
+firefox31.0 92
+msie8.0 6
+chrome18.6.872.0 1
+msie7.0 2
+firefox23.0 1
+safari8.0 11
+msie9.0 4
+Unknown 10
+chrome14.0.813.0 1
+chrome37.0.2062.94 1
+netscape 21
+firefox32.0 14
+chrome34.0.1847.131 1
+firefox10.0.1 1
+chrome35.0.1916.114 1
+chrome36.0.1985.143 1
+mozilla 19
+chrome24.0.1312.60 6
+firefox1.0 1
+firefox14.0.1 1
+msie10.0 2
+chrome25.0.1364.172 1
+chrome27.0.1453.116 1
+safari 1
+firefox16.0.1 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla 20140930111146
+Mozilla/5.0_(compatible;_WebMasterAid/1.0;__http://wmaid.com/explore/) 20140923115550
+NerdyBot 20140910111805
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+NerdyBot 20140910111805
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 89 89
+From1 0 0
+From2 2 2
+From3 32 32
+From4 100 231
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+http://wmaid.com/explore/saveaslave.us/ 3 3
+http://ciberliricas.com 2 2
+http://alexa-hr.com 2 2
+http://hobidix.com 2 2
+http://hot-smut.com 2 2
+http://planete-lens.com 2 2
+http://tianshi-cn.net 2 2
+http://legavegetassj2.com 2 2
+http://v-klapan.ru 2 2
+http://bakajojo.com 2 2
+http://lasulaws.com 2 2
+http://fakepaycheckstub.com 2 2
+http://pal3yoon.com 2 2
+http://suekizoyunlari.com 2 2
+http://mitekmalta.com 2 2
+http://www.ALWAYSMOVINGINC.NET 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 2 394
+206 2 862
+301 5 1178
+404 188 333136
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 35
+/administrator/index.php/admin/login.php 1 -
+/wp-includes/css/admin-bar.css 1 https://www.google.com/
+/drupal 1 http://saveaslave.us/drupal
+/test/images/countrymap/antigua-barbuda-flag.jpg 1 http://saveaslave.us/test/antigua-and-barbuda.html
+/components/com_support/support.php 1 -
+/robots.txt 107 -
+/index.php/component/tags/tag/2-joomla 4 -
+/user 1 -
+/administrator/index.php/admin/ 1 -
+/admin.php 3 -
+/index.php/directory 22 -
+/administrator/index.php/administrator/index.php 1 -
+/administrator/index.php/bitrix/admin/index.php 1 -
+/test/images/countrymap/argentina-flag.jpg 1 http://saveaslave.us/test/argentina.html
+/admin/index.php 1 -
+/test/images/countrymap/finland-flag.jpg 3 http://saveaslave.us/test/finland.html
+/joomla 1 http://saveaslave.us/joomla
+/wordpress 1 http://saveaslave.us/wordpress
+/blog 1 http://saveaslave.us/blog
+/xmlrpc.php 1 https://www.google.com/search
+/index.php/component/tags/tag/2 2 -
+/test/images/countrymap/algeria-flag.jpg 1 http://saveaslave.us/test/algeria.html
+/administrator/index.php/wp-login.php 1 -
+/administrator/index.php 1 -
+/images/sadchild.jpg 1 -
+/administrator/index.php/admin.php 1 -
+/css/style.css 3 -
+/administrator/index.php/user/ 1 -
+/images/sobipro/entries/38/thumb_FolderNetwork.png 8 -
+/tmp/configuration.php 1 -
+/wp 1 http://saveaslave.us/wp
+/administrator/ 2 -
+/index.php 7 -
+/modules/mod_search/tmpl/index.php 1 -
+/wp-login.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 86
+68.187.201.190 33 101 1662891 20140927180259
+188.92.76.167 31 31 0 20140923115550
+192.99.149.88 12 12 5172 20140925193403
+72.168.98.122 7 29 578632 20140906194735
+176.9.124.164 6 6 2586 20140930192229
+176.9.113.140 6 6 2586 20140927192007
+5.9.137.230 6 6 2586 20140924191809
+5.9.137.231 4 4 1724 20140912190830
+5.9.137.227 4 4 1724 20140928192059
+5.9.151.170 4 4 1724 20140923191604
+176.9.116.134 4 4 1724 20140907185812
+5.9.137.235 4 4 1724 20140914191004
+72.168.98.116 4 15 506026 20140909161824
+176.9.124.163 4 4 1724 20140922191359
+107.77.72.125 4 12 240396 20140905102922
+176.9.116.135 4 4 1724 20140918191221
+130.211.164.63 3 3 1293 20140910111805
+72.168.98.120 3 11 298792 20140925185033
+46.229.170.197 2 2 862 20140926002345
+176.9.116.133 2 2 862 20140901180358
+5.9.137.229 2 2 862 20140919211620
+176.9.124.168 2 2 862 20140925191826
+176.9.116.136 2 2 862 20140902180405
+176.9.113.138 2 2 862 20140910190629
+72.168.98.118 2 8 254186 20140908144922
+146.148.57.239 1 1 431 20140922111312
+5.9.247.23 1 1 431 20140925190205
+54.164.130.152 1 1 431 20140927040159
+146.148.61.102 1 1 431 20140926111220
+96.227.124.38 1 1 431 20140915100506
+54.91.102.157 1 1 431 20140913120130
+74.52.245.146 1 1 431 20140915012555
+146.148.60.152 1 1 431 20140918105240
+185.26.122.45 1 1 431 20140924161828
+157.55.39.89 1 1 431 20140923212621
+54.210.103.10 1 1 431 20140927040036
+130.211.148.214 1 1 431 20140901111019
+198.178.124.47 1 1 431 20140924125450
+192.114.71.13 1 1 431 20140925202154
+130.211.150.66 1 1 431 20140920111255
+54.237.53.179 1 1 431 20140910122958
+208.85.0.202 1 1 431 20140930210103
+130.211.175.32 1 1 431 20140909111821
+54.165.119.13 1 1 431 20140908222833
+176.96.250.151 1 1 431 20140912025016
+146.148.53.99 1 1 431 20140927111214
+130.211.127.103 1 1 431 20140907111802
+130.211.167.86 1 1 431 20140911104552
+188.120.244.87 1 1 431 20140905042631
+176.9.113.139 2 2 862 20140929192222
+146.148.66.72 1 1 431 20140930111146
+146.148.62.225 1 1 431 20140919111248
+23.251.151.184 1 1 431 20140923111302
+130.211.172.33 2 2 862 20140928111229
+130.211.189.62 1 1 431 20140915103710
+99.166.173.48 2 6 217524 20140927233701
+146.148.61.220 1 1 431 20140916103737
+130.211.165.17 1 1 431 20140929111232
+130.211.190.120 1 1 431 20140917103856
+180.228.243.112 1 1 431 20140930062038
+24.47.234.135 1 1 431 20140923182149
+54.165.119.157 1 1 431 20140912171138
+178.62.145.50 1 1 431 20140906171605
+146.148.43.36 1 1 431 20140924111318
+38.100.21.62 1 1 431 20140923080310
+162.243.73.55 1 1 431 20140909191350
+193.110.73.2 1 1 431 20140916073251
+130.211.185.234 1 1 431 20140921111232
+54.165.201.144 1 1 431 20140912171038
+54.83.6.7 1 1 431 20140906094641
+116.251.186.228 1 1 431 20140902195128
+130.211.124.109 1 1 431 20140908111831
+67.233.182.154 1 1 431 20140905192655
+31.202.241.245 1 1 431 20140924072124
+173.255.113.17 1 1 431 20140925111244
+5.9.151.168 2 2 862 20140922084125
+130.211.163.143 1 1 431 20140912103747
+130.211.153.112 2 2 862 20140906111650
+162.220.58.244 1 1 431 20140904140639
+108.62.48.176 1 1 431 20140905033839
+69.58.178.57 1 1 431 20140908112642
+72.168.98.117 1 5 196329 20140928213305
+146.148.53.192 1 1 431 20140914103946
+130.211.177.114 1 1 431 20140913103655
+37.59.4.151 1 1 431 20140916064332
+54.244.131.19 1 1 431 20140925134350
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20140901 35 100 1488907 6
+20140902 4 4 1724 3
+20140903 3 3 1293 2
+20140904 4 4 1724 3
+20140905 10 18 242982 6
+20140906 12 34 580787 5
+20140907 4 4 1724 3
+20140908 8 14 277536 6
+20140909 5 10 262062 4
+20140910 6 6 1724 4
+20140911 3 3 1293 2
+20140912 6 6 2586 5
+20140913 4 4 1724 3
+20140914 7 7 1293 4
+20140915 13 13 2155 8
+20140916 15 15 2155 9
+20140917 9 9 2155 6
+20140918 7 7 2155 5
+20140919 3 3 1293 2
+20140920 1 1 431 1
+20140921 3 3 1293 2
+20140922 5 5 2155 3
+20140923 7 7 2586 6
+20140924 6 6 2586 5
+20140925 17 25 304826 14
+20140926 7 13 226648 4
+20140927 7 14 394525 6
+20140928 4 8 197622 3
+20140929 3 3 1293 2
+20140930 5 5 2155 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 130
+15mn-30mn 1
+30s-2mn 3
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 170 59909 125 122
+/test/ 14 296386 10 7
+/test/aruba.html 6 53821 1 2
+/test/afghanistan.html 5 16908 0 1
+/test/algeria.html 4 16780 0 0
+/test/finland.html 4 16316 0 1
+/test/albania.html 4 12582 0 0
+/test/antigua-and-barbuda.html 3 12813 0 1
+/test/andorra.html 3 12585 0 1
+/test/argentina.html 3 8426 0 0
+/test/azerbaijan.html 2 8440 0 1
+/test/armenia.html 2 8388 0 0
+/test/angola.html 1 4186 0 0
+/test/australia.html 1 4213 0 0
+/test/austria.html 1 4191 0 0
+END_SIDER

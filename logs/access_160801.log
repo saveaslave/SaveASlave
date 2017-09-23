@@ -1,0 +1,368 @@
+172.126.223.37 - - [30/Jul/2016:17:13:40 -0700] "GET /css/down-arrow.png HTTP/1.1" 404 89 "http://www.saveaslave.com/css/elements.css" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+65.36.241.48 - - [30/Jul/2016:17:24:10 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+54.211.242.79 - - [30/Jul/2016:17:30:20 -0700] "GET / HTTP/1.1" 200 89977 "-" "-" "saveaslave.com"
+176.31.229.211 - - [30/Jul/2016:17:35:17 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0" "saveaslave.com"
+159.203.61.153 - - [30/Jul/2016:17:43:32 -0700] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.38.0" "saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:17:50:46 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:17:50:46 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+157.55.39.110 - - [30/Jul/2016:17:50:52 -0700] "GET /help.php HTTP/1.1" 200 52766 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "saveaslave.com"
+107.21.1.8 - - [30/Jul/2016:17:53:44 -0700] "GET / HTTP/1.1" 200 89977 "http://saveaslave.com/" "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)" "saveaslave.com"
+107.21.1.8 - - [30/Jul/2016:17:53:44 -0700] "GET /ico/android-icon-192x192.png HTTP/1.1" 200 10097 "http://saveaslave.com/ico/android-icon-192x192.png" "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)" "saveaslave.com"
+66.249.93.82 - - [30/Jul/2016:18:20:54 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon" "saveaslave.com"[3]
+66.249.93.72 - - [30/Jul/2016:18:20:54 -0700] "GET /ico/favicon-16x16.png HTTP/1.1" 200 1129 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon" "saveaslave.com"
+134.249.53.10 - - [30/Jul/2016:18:26:02 -0700] "GET / HTTP/1.1" 200 89941 "http://kaliningrad.xrus.org/" "Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)" "saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:18:53:58 -0700] "GET /managearticle.php HTTP/1.1" 200 1294 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+66.24.84.138 - - [30/Jul/2016:19:11:35 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+66.24.84.138 - - [30/Jul/2016:19:11:36 -0700] "GET /www.igc.org HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+66.24.84.138 - - [30/Jul/2016:19:11:38 -0700] "GET /www.nightlightinternational.org HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+66.24.84.138 - - [30/Jul/2016:19:11:40 -0700] "GET /www.oasisusa.org HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+195.154.185.20 - - [30/Jul/2016:19:45:54 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+195.154.185.20 - - [30/Jul/2016:19:45:57 -0700] "GET /in-russian.php?lang=ru HTTP/1.1" 200 93357 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+65.36.241.48 - - [30/Jul/2016:19:55:38 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+178.255.215.78 - - [30/Jul/2016:19:57:15 -0700] "GET /afghanistan HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:07 -0700] "GET / HTTP/1.1" 200 89941 "http://spankedcoeds2.com/blog/category/18-yr-old-girls-getting-spanked/page/2/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:08 -0700] "GET /css/bootstrap.min.css HTTP/1.1" 200 123578 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:08 -0700] "GET /css/style.css HTTP/1.1" 200 7938 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:08 -0700] "GET /css/elements.css HTTP/1.1" 200 17857 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:09 -0700] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"[0]
+111.118.247.134 - - [30/Jul/2016:20:30:09 -0700] "GET /gajaxscroller.js HTTP/1.1" 200 9774 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:11 -0700] "GET /images/logo2.png HTTP/1.1" 200 18525 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:11 -0700] "GET /images/article/end_it.jpg HTTP/1.1" 200 33676 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"[0]
+111.118.247.134 - - [30/Jul/2016:20:30:11 -0700] "GET /images/cover1.jpg HTTP/1.1" 200 253658 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:11 -0700] "GET /images/top.jpg HTTP/1.1" 200 50519 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:12 -0700] "GET /css/style-pages.css HTTP/1.1" 200 9894 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:14 -0700] "GET /images/social2.png HTTP/1.1" 200 1752 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:14 -0700] "GET /indicator.gif HTTP/1.1" 200 878 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:14 -0700] "GET /js/bootstrap.min.js HTTP/1.1" 200 37055 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:21 -0700] "GET /favicon.ico HTTP/1.1" 404 89 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:21 -0700] "GET /ico/favicon-16x16.png HTTP/1.1" 200 1129 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+111.118.247.134 - - [30/Jul/2016:20:30:22 -0700] "GET /ico/favicon-32x32.png HTTP/1.1" 200 1892 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+199.58.86.211 - - [30/Jul/2016:20:40:43 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+199.58.86.211 - - [30/Jul/2016:20:40:45 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+199.58.86.211 - - [30/Jul/2016:20:40:46 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+199.58.86.211 - - [30/Jul/2016:20:40:48 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+157.55.39.80 - - [30/Jul/2016:20:46:04 -0700] "GET /cyprus.html HTTP/1.1" 404 89 "-" "msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)" "www.saveaslave.com"
+157.55.39.80 - - [30/Jul/2016:20:46:05 -0700] "GET /index.php HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"[1]
+157.55.39.80 - - [30/Jul/2016:20:46:06 -0700] "GET /?Itemid=1 HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:13 -0700] "GET /article.php?id=45%20and%201%3E1 HTTP/1.1" 200 45902 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; iebar; Sgrunt|V109|1746|S-1740532934|dialno; snprtz|dialno; .NET CLR 2.0.50727)" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:14 -0700] "GET /article.php?id=45%27%20and%20%27x%27%3D%27x HTTP/1.1" 200 45910 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; iebar; Sgrunt|V109|1746|S-1740532934|dialno; snprtz|dialno; .NET CLR 2.0.50727)" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:16 -0700] "GET /article.php?id=45\"%20and%20\"x\"%3D\"x HTTP/1.1" 200 45910 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; iebar; acc=; YPC 3.2.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; IEMB3; IEMB3; yplus 5.1.04b)" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:16 -0700] "GET /article.php?id=45%22%20and%20%22x%22%3D%22y HTTP/1.1" 200 45910 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; elertz 2.4.179[128]; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:17 -0700] "GET /article.php?id=45%20AND%201=1 HTTP/1.1" 200 45902 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; ds-66843412; Sgrunt|V109|1|S-66843412|dial; .NET CLR 1.1.4322)" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:19 -0700] "GET /article.php?id=45 HTTP/1.1" 200 45894 "-" "Opera/9.27" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:20 -0700] "GET /article.php?id=45%20AnD%20SLeeP%283%29 HTTP/1.1" 200 45907 "-" "Opera/9.27" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:20 -0700] "GET /article.php?id=45%26%26SlEEp%283%29 HTTP/1.1" 200 45904 "-" "Opera/9.27" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:21 -0700] "GET /article.php?id=45%27%20AnD%20sLeep%283%29%20ANd%20%271 HTTP/1.1" 200 45917 "-" "Opera/9.27" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:22 -0700] "GET /article.php?id=45%27%26%26sLEEp%283%29%26%26%271 HTTP/1.1" 200 45911 "-" "Opera/9.27" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:22 -0700] "GET /article.php?id=45%00%27%7C%7CSLeeP%283%29%26%26%271 HTTP/1.1" 200 45913 "-" "Opera/9.27" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:23 -0700] "GET /article.php?id=45%20AnD%20BeNChMaRK%282999999%2CMD5%28NOW%28%29%29%29 HTTP/1.1" 200 45928 "-" "Opera/9.27" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:24 -0700] "GET /article.php?id=45%26%26BeNChMaRK%282999999%2CMD5%28NOW%28%29%29%29 HTTP/1.1" 200 45925 "-" "Opera/9.27" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:24 -0700] "GET /article.php?id=45%27%20aND%20BeNChMaRK%282999999%2CMd5%28NoW%28%29%29%29%20AnD%20%271 HTTP/1.1" 200 45938 "-" "Opera/9.27" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:25 -0700] "GET /article.php?id=45%27%26%26BeNChMaRK%282999999%2CmD5%28NOW%28%29%29%29%26%26%271 HTTP/1.1" 200 45932 "-" "Opera/9.27" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:25 -0700] "GET /article.php?id=45999999.1%20union%20select%20unhex(hex(version()))%20--%20and%201%3D1 HTTP/1.1" 200 776 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:26 -0700] "GET /article.php?id=4599999%27%20union%20select%20unhex(hex(version()))%20--%20%27x%27=%27x HTTP/1.1" 200 776 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; eMusic DLM/3; MSN Optimized;US; MSN Optimized;US)" "saveaslave.com"
+82.200.207.18 - - [30/Jul/2016:20:57:26 -0700] "GET /article.php?id=4599999%22%20union%20select%20unhex(hex(version()))%20--%20%22x%22=%22x HTTP/1.1" 200 776 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; dial" "saveaslave.com"[0]
+82.200.207.18 - - [30/Jul/2016:20:57:26 -0700] "GET /article.php?id=45%20or%20(1,2)=(select*from(select%20name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a)%20--%20and%201%3D1 HTTP/1.1" 200 46049 "-" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; dial" "saveaslave.com"[0]
+46.119.112.87 - - [30/Jul/2016:21:08:06 -0700] "GET / HTTP/1.1" 200 89941 "http://domdeco.net/" "Mozilla/0.6 Beta (Windows)" "saveaslave.com"[1]
+46.119.112.87 - - [30/Jul/2016:21:08:08 -0700] "GET / HTTP/1.1" 200 89941 "http://domdeco.net/" "Mozilla/0.6 Beta (Windows)" "saveaslave.com"
+65.36.241.48 - - [30/Jul/2016:21:11:58 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+213.239.205.207 - - [30/Jul/2016:21:26:39 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+213.239.205.207 - - [30/Jul/2016:21:26:42 -0700] "GET /www.nhmc.org HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+157.55.39.195 - - [30/Jul/2016:21:33:39 -0700] "GET /sitemap.xml HTTP/1.1" 200 296 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:21:45:53 -0700] "GET /uk HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:21:45:53 -0700] "GET /falklands.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:21:45:54 -0700] "GET /bosnia.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+157.55.39.195 - - [30/Jul/2016:21:57:40 -0700] "GET /guadeloupe HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"[0]
+157.55.39.195 - - [30/Jul/2016:21:57:40 -0700] "GET /palestinian-territories.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"
+157.55.39.195 - - [30/Jul/2016:21:57:40 -0700] "GET /jamaica.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"
+157.55.39.195 - - [30/Jul/2016:22:03:33 -0700] "GET /listlink.php HTTP/1.1" 200 32146 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"[2]
+157.55.39.195 - - [30/Jul/2016:22:03:33 -0700] "GET /cambodia HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "www.saveaslave.com"
+65.36.241.48 - - [30/Jul/2016:22:25:55 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:22:48:08 -0700] "GET /news1r.php HTTP/1.1" 200 73 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+208.115.113.86 - - [30/Jul/2016:22:50:28 -0700] "GET /article.php?id=95 HTTP/1.1" 200 776 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+62.210.143.245 - - [30/Jul/2016:23:04:34 -0700] "GET /italy HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"[0]
+65.36.241.48 - - [30/Jul/2016:23:41:41 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+5.255.250.70 - - [31/Jul/2016:00:09:49 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" "www.saveaslave.com"
+23.23.242.178 - - [31/Jul/2016:00:31:49 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "saveaslave.com"
+54.243.48.119 - - [31/Jul/2016:00:56:19 -0700] "GET /article.php?id=86 HTTP/1.1" 200 43964 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "www.saveaslave.com"[2]
+23.23.242.178 - - [31/Jul/2016:01:14:39 -0700] "GET /article.php?id=46 HTTP/1.1" 200 49280 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET / HTTP/1.1" 200 89941 "https://www.google.cz/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET /gfeedfetcher.js HTTP/1.1" 200 9018 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET /css/elements.css HTTP/1.1" 200 17857 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET /css/bootstrap.min.css HTTP/1.1" 200 123578 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET /css/style.css HTTP/1.1" 200 7938 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:14 -0700] "GET /css/style-pages.css HTTP/1.1" 200 9894 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/logo2.png HTTP/1.1" 200 18525 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/article/suspects.jpg HTTP/1.1" 200 58796 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/top.jpg HTTP/1.1" 200 50519 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/social2.png HTTP/1.1" 200 1752 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"[0]
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/select-arrow.png HTTP/1.1" 200 1118 "http://www.saveaslave.com/css/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/social3.png HTTP/1.1" 200 4343 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /images/cover1.jpg HTTP/1.1" 200 253658 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:15 -0700] "GET /addarticle.php HTTP/1.1" 200 13682 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+77.240.103.233 - - [31/Jul/2016:01:28:21 -0700] "GET /ico/favicon-32x32.png HTTP/1.1" 200 1892 "http://www.saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+134.249.65.218 - - [31/Jul/2016:01:36:02 -0700] "GET / HTTP/1.1" 200 89941 "http://i-service.kz/" "Opera/9.00 (Windows NT 5.1; U; ru)" "saveaslave.com"
+134.249.65.218 - - [31/Jul/2016:01:36:03 -0700] "GET / HTTP/1.1" 200 89941 "http://i-service.kz/" "Opera/9.00 (Windows NT 5.1; U; ru)" "saveaslave.com"
+134.249.65.218 - - [31/Jul/2016:01:36:03 -0700] "GET / HTTP/1.1" 200 89941 "http://i-service.kz/" "Opera/9.00 (Windows NT 5.1; U; ru)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:02:25:33 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:02:53:34 -0700] "GET /article.php?id=91 HTTP/1.1" 200 776 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+69.30.221.242 - - [31/Jul/2016:03:25:55 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+69.30.221.242 - - [31/Jul/2016:03:25:57 -0700] "GET /site/?page_id=28 HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+66.249.66.132 - - [31/Jul/2016:03:51:48 -0700] "GET /site/?p=34 HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "saveaslave.com"[0]
+178.24.113.152 - - [31/Jul/2016:04:04:42 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"[0]
+51.255.65.54 - - [31/Jul/2016:04:45:02 -0700] "GET /brazil.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:05:01:03 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+209.126.127.49 - - [31/Jul/2016:05:11:55 -0700] "GET /article.php?id=5 HTTP/1.1" 200 46570 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:05:17:52 -0700] "HEAD /?tpl=references&Itemid=3 HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:05:29:23 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:05:29:23 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+194.187.170.115 - - [31/Jul/2016:05:36:23 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; Qwantify/2.2w; +https://www.qwant.com/)/*" "saveaslave.com"
+194.187.170.115 - - [31/Jul/2016:06:38:05 -0700] "GET /contact-us.php HTTP/1.1" 200 30488 "-" "Mozilla/5.0 (compatible; Qwantify/2.2w; +https://www.qwant.com/)/*" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:06:46:30 -0700] "GET /news6.php HTTP/1.1" 200 73 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"[0]
+159.203.61.153 - - [31/Jul/2016:07:15:36 -0700] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.38.0" "saveaslave.com"
+159.203.61.153 - - [31/Jul/2016:07:22:12 -0700] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.38.0" "saveaslave.com"
+54.243.48.119 - - [31/Jul/2016:07:25:19 -0700] "GET /who-we-are.php HTTP/1.1" 200 50828 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "www.saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:07:34:09 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+159.203.61.153 - - [31/Jul/2016:07:52:11 -0700] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.38.0" "saveaslave.com"
+159.203.61.153 - - [31/Jul/2016:08:02:28 -0700] "HEAD / HTTP/1.1" 200 0 "-" "curl/7.38.0" "saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:18:41 -0700] "GET / HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:18:51 -0700] "GET /wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:19:15 -0700] "GET /wp-admin/admin-ajax.php?action=kbslider_show_image&img=../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:19:45 -0700] "GET /wp-content/plugins/db-backup/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:20:13 -0700] "GET /wp-content/plugins/pica-photo-gallery/picadownload.php?imgname=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:20:21 -0700] "GET /wp-content/plugins/plugin-newsletter/preview.php?data=../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:20:29 -0700] "GET /wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php?file=../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:20:36 -0700] "GET /wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php?href=../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:20:44 -0700] "GET /wp-content/plugins/wp-filemanager/incl/libfile.php?&path=../../&filename=wp-config.php&action=download HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:20:58 -0700] "GET /wp-content/themes/MichaelCanthony/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:21:20 -0700] "GET /wp-content/themes/SMWF/inc/download.php?file=../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:21:27 -0700] "GET /wp-content/themes/TheLoft/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:22:03 -0700] "GET /wp-content/themes/corporate_works/downloader.php?file_download=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:22:18 -0700] "GET /wp-content/themes/felis/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:22:33 -0700] "GET /wp-content/themes/linenity/functions/download.php?imgurl=../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:22:39 -0700] "GET /wp-content/themes/lote27/download.php?download=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:22:46 -0700] "GET /wp-content/themes/markant/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:22:54 -0700] "GET /wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php?file=../../../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:23:01 -0700] "GET /wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php?file=../../../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:23:08 -0700] "GET /wp-content/themes/tess/download.php?file=../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:23:14 -0700] "GET /wp-content/themes/trinity/lib/scripts/download.php?file=../../../../../wp-config.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:23:40 -0700] "POST /wp-content/themes/infocus/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:23:46 -0700] "POST /wp-content/themes/infocus2/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:24:05 -0700] "POST /wp-content/themes/awake/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:24:12 -0700] "POST /wp-content/themes/modular/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+46.161.9.35 - - [31/Jul/2016:09:24:25 -0700] "POST /wp-content/themes/elegance/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:24:37 -0700] "POST /wp-content/themes/myriad/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"[0]
+46.161.9.35 - - [31/Jul/2016:09:24:51 -0700] "POST /wp-content/themes/construct/lib/scripts/dl-skin.php HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0" "www.saveaslave.com"
+138.201.125.143 - - [31/Jul/2016:09:32:40 -0700] "GET /article.php?id=1 HTTP/1.1" 200 44887 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+213.89.214.52 - - [31/Jul/2016:09:51:50 -0700] "GET /images/article/suspects.jpg HTTP/1.1" 200 58796 "https://www.google.se/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:06:38 -0700] "GET /uae HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+140.237.1.246 - - [31/Jul/2016:10:34:49 -0700] "HEAD / HTTP/1.1" 200 0 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:10:39:22 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+195.154.183.187 - - [31/Jul/2016:10:48:05 -0700] "GET /modules/vtemslideshow/uploadimage.php HTTP/1.1" 404 89 "http://saveaslave.com/modules/vtemslideshow/uploadimage.php" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:51:59 -0700] "GET /wake-island.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:51:59 -0700] "GET /japan.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:52:00 -0700] "GET /mozambique.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:57:20 -0700] "GET /article.php?id=99 HTTP/1.1" 200 776 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:58:13 -0700] "GET /wallis-and-futuna.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:10:58:13 -0700] "GET /kiribati.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"[0]
+208.115.113.86 - - [31/Jul/2016:10:58:14 -0700] "GET /palmyra-atoll.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:11:01:50 -0700] "GET /article.php?id=6 HTTP/1.1" 200 47545 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+101.226.169.214 - - [31/Jul/2016:11:10:51 -0700] "GET / HTTP/1.1" 200 89977 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider(compatible; HaosouSpider; http://www.haosou.com/help/help_3_2.html)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:11:54:43 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:14 -0700] "GET /images/top.jpg HTTP/1.1" 200 50519 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:15 -0700] "GET /addarticle.php HTTP/1.1" 200 13718 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:15 -0700] "GET /images/social3.png HTTP/1.1" 200 4343 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"[0]
+190.115.176.182 - - [31/Jul/2016:12:26:55 -0700] "GET /help.php HTTP/1.1" 200 52260 "http://saveaslave.com/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:56 -0700] "GET /images/help/help_report_button.jpg HTTP/1.1" 200 1363 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:56 -0700] "GET /css/down-arrow.png HTTP/1.1" 404 89 "http://saveaslave.com/css/elements.css" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:56 -0700] "GET /images/help/help_email.jpg HTTP/1.1" 200 27827 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:56 -0700] "GET /images/help/help_captcha.jpg HTTP/1.1" 200 53496 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+190.115.176.182 - - [31/Jul/2016:12:26:56 -0700] "GET /addarticle.php HTTP/1.1" 200 13682 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:03 -0700] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:05 -0700] "GET /who-we-arer.php HTTP/1.1" 200 72535 "-" "panscient.com" "saveaslave.com"[1]
+72.76.221.220 - - [31/Jul/2016:13:06:06 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:07 -0700] "GET / HTTP/1.1" 200 89977 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:06:09 -0700] "GET /our-news.php HTTP/1.1" 200 65039 "-" "panscient.com" "www.saveaslave.com"[1]
+72.76.221.220 - - [31/Jul/2016:13:06:10 -0700] "GET /contact-us.php HTTP/1.1" 200 30488 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:12 -0700] "GET /article.php?id=46 HTTP/1.1" 200 49280 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:06:14 -0700] "GET /disclaimer.php HTTP/1.1" 200 47937 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:15 -0700] "GET /js/bootstrap.min.js HTTP/1.1" 200 37055 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:16 -0700] "GET /help.php HTTP/1.1" 200 52766 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:24 -0700] "GET /in-russian.php?lang=ru HTTP/1.1" 200 93357 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:25 -0700] "GET /disclaimer.php HTTP/1.1" 200 85 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:26 -0700] "GET /who-we-are.php HTTP/1.1" 200 50828 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:27 -0700] "GET /js/bootstrap.min.js HTTP/1.1" 200 37055 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:35 -0700] "GET /index.php HTTP/1.1" 200 89977 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:06:36 -0700] "GET /article.php?id=86 HTTP/1.1" 200 43964 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:38 -0700] "GET /gajaxscroller.js HTTP/1.1" 200 9774 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:40 -0700] "GET /addarticle.php HTTP/1.1" 200 13718 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:41 -0700] "GET /index.php HTTP/1.1" 200 89977 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:41 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:42 -0700] "GET /gfeedfetcher.js HTTP/1.1" 200 9018 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:57 -0700] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:06:58 -0700] "GET /our-supportersr.php HTTP/1.1" 200 73 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:01 -0700] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:02 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:02 -0700] "GET /contact-us.php HTTP/1.1" 200 30488 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:06 -0700] "GET /article.php?id=9 HTTP/1.1" 200 100388 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:07:18 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:21 -0700] "GET /article.php?id=12 HTTP/1.1" 200 49575 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:22 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:22 -0700] "GET /article.php?id=11 HTTP/1.1" 200 67651 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:07:24 -0700] "GET /article.php?id=18 HTTP/1.1" 200 47110 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:25 -0700] "GET /article.php?id=19 HTTP/1.1" 200 48687 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:27 -0700] "GET /article.php?id=15 HTTP/1.1" 200 56188 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:28 -0700] "GET /article.php?id=17 HTTP/1.1" 200 45205 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:07:42 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:43 -0700] "GET /article.php?id=66 HTTP/1.1" 200 52808 "-" "panscient.com" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:13:07:46 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:46 -0700] "GET /article.php?id=32 HTTP/1.1" 200 51064 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:47 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:48 -0700] "GET /password_protect.php?logout=1 HTTP/1.1" 200 416 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:07:49 -0700] "GET / HTTP/1.1" 200 89977 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:50 -0700] "GET /article.php?id=61 HTTP/1.1" 200 56345 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:07:51 -0700] "GET /article.php?id=21 HTTP/1.1" 200 49349 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:07:52 -0700] "GET /article.php?id=62 HTTP/1.1" 200 47665 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:02 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:02 -0700] "GET /help-advanced.php HTTP/1.1" 200 53663 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:02 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:06 -0700] "GET /article.php?id=13 HTTP/1.1" 200 60519 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:07 -0700] "GET /article.php?id=111 HTTP/1.1" 200 46175 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:08 -0700] "GET /article.php?id=113 HTTP/1.1" 200 43909 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:10 -0700] "GET /article.php?id=4 HTTP/1.1" 200 50849 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:17 -0700] "GET /article.php?id=21 HTTP/1.1" 200 49349 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:29 -0700] "GET /article.php?id=13 HTTP/1.1" 200 60519 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:08:34 -0700] "GET /help.php HTTP/1.1" 200 52766 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:08:35 -0700] "GET /in-russian.php?lang=ru HTTP/1.1" 200 93357 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:08:38 -0700] "GET /our-news.php HTTP/1.1" 200 65039 "-" "panscient.com" "www.saveaslave.com"[1]
+72.76.221.220 - - [31/Jul/2016:13:09:05 -0700] "GET /gajaxscroller.js HTTP/1.1" 200 9774 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:06 -0700] "GET /addarticle.php HTTP/1.1" 200 13718 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:08 -0700] "GET /article.php?id=32 HTTP/1.1" 200 51064 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:09 -0700] "GET /article.php?id=46 HTTP/1.1" 200 49280 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:10 -0700] "GET /article.php?id=114 HTTP/1.1" 200 43904 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:12 -0700] "GET /our-supporters.php HTTP/1.1" 200 55443 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:17 -0700] "GET /gfeedfetcher.js HTTP/1.1" 200 9018 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:18 -0700] "GET /js/?).length&(o=o.closest( HTTP/1.1" 200 1685 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:21 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:21 -0700] "GET /who-we-arer.php HTTP/1.1" 200 72535 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:22 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:28 -0700] "GET /js/?);if(!(n&n.length&(e=n.data( HTTP/1.1" 200 1685 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:29 -0700] "GET /our-newsr.php HTTP/1.1" 200 78273 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:31 -0700] "GET /addarticle.php HTTP/1.1" 200 13718 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:32 -0700] "GET /our-supportersr.php HTTP/1.1" 200 73 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:33 -0700] "GET / HTTP/1.1" 200 89977 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:34 -0700] "GET /who-we-are.php HTTP/1.1" 200 50828 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:36 -0700] "GET /js/scrolling-nav.js HTTP/1.1" 200 608 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:37 -0700] "GET /our-supporters.php HTTP/1.1" 200 55443 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:38 -0700] "GET /help-advanced.php HTTP/1.1" 200 53663 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:40 -0700] "GET /js/gfeedfetcher.js HTTP/1.1" 200 9018 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:41 -0700] "GET /js/bootstrap.js HTTP/1.1" 200 69126 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:42 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:42 -0700] "GET /js/gajaxscroller.js HTTP/1.1" 200 9774 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:42 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:09:43 -0700] "GET /contact-us.php HTTP/1.1" 200 30488 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:09:59 -0700] "GET /help-advanced.php HTTP/1.1" 200 53663 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:01 -0700] "GET /managecountry.php HTTP/1.1" 200 1294 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:03 -0700] "GET /js/bootstrap.min.js HTTP/1.1" 200 37055 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:04 -0700] "GET /gajaxscroller.js HTTP/1.1" 200 9774 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:04 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:06 -0700] "GET /managearticle.php HTTP/1.1" 200 1294 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:07 -0700] "GET /js/?).length&(o=o.closest( HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:08 -0700] "GET /password_protect.php?logout=1 HTTP/1.1" 200 416 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:08 -0700] "GET / HTTP/1.1" 200 89977 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:09 -0700] "GET /js/scrolling-nav.js HTTP/1.1" 200 608 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:15 -0700] "GET /js/bootstrap.js HTTP/1.1" 200 69126 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:17 -0700] "GET /js/gajaxscroller.js HTTP/1.1" 200 9774 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:19 -0700] "GET /js/?M=A HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:21 -0700] "GET /js/?D=D HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:23 -0700] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:24 -0700] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:25 -0700] "GET /js/main.js HTTP/1.1" 200 244 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:25 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:26 -0700] "GET /js/main.js HTTP/1.1" 200 244 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:28 -0700] "GET /managelink.php HTTP/1.1" 200 1294 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:38 -0700] "GET /article.php?id=111 HTTP/1.1" 200 46175 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:40 -0700] "GET /article.php?id=111 HTTP/1.1" 200 46175 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:10:41 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:41 -0700] "GET /article.php?id=113 HTTP/1.1" 200 43909 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:42 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:43 -0700] "GET /article.php?id=4 HTTP/1.1" 200 50849 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:44 -0700] "GET /article.php?id=5 HTTP/1.1" 200 46570 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:46 -0700] "GET /article.php?id=6 HTTP/1.1" 200 47545 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:10:49 -0700] "GET /article.php?id=2 HTTP/1.1" 200 48363 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:02 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:02 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:03 -0700] "GET /article.php?id=15 HTTP/1.1" 200 56188 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:04 -0700] "GET /article.php?id=7 HTTP/1.1" 200 49172 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:06 -0700] "GET /article.php?id=1 HTTP/1.1" 200 44887 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:07 -0700] "GET /article.php?id=2 HTTP/1.1" 200 48363 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:08 -0700] "GET /article.php?id=3 HTTP/1.1" 200 50892 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:09 -0700] "GET /article.php?id=6 HTTP/1.1" 200 47545 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:15 -0700] "GET /js/?M=D HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:21 -0700] "GET /js/?M=D HTTP/1.1" 200 1685 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:22 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:22 -0700] "GET /article.php?id=86 HTTP/1.1" 200 43964 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:23 -0700] "GET /article.php?id=46 HTTP/1.1" 200 49280 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:24 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:25 -0700] "GET /js/jquery.scrollTo-1.4.3.1-min.js HTTP/1.1" 200 2434 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:26 -0700] "GET /article.php?id=15 HTTP/1.1" 200 56188 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:27 -0700] "GET /article.php?id=45 HTTP/1.1" 200 45894 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:28 -0700] "GET /article.php?id=13 HTTP/1.1" 200 60519 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:30 -0700] "GET /js/jquery.scrollTo-1.4.3.1-min.js HTTP/1.1" 200 2434 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:31 -0700] "GET /article.php?id=10 HTTP/1.1" 200 49450 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:32 -0700] "GET /article.php?id=12 HTTP/1.1" 200 49575 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:33 -0700] "GET /article.php?id=11 HTTP/1.1" 200 67651 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:35 -0700] "GET /article.php?id=18 HTTP/1.1" 200 47110 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:48 -0700] "GET /article.php?id=22 HTTP/1.1" 200 46612 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:49 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:49 -0700] "GET /js/?N=A HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:50 -0700] "GET /js/?N=D HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:50 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:51 -0700] "GET /js/jquery.easing.1.3.js HTTP/1.1" 200 8097 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:52 -0700] "GET /index.php HTTP/1.1" 200 89977 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:54 -0700] "GET /article.php?id=32 HTTP/1.1" 200 51064 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:11:55 -0700] "GET /article.php?id=114 HTTP/1.1" 200 43904 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:11:56 -0700] "GET /article.php?id=24 HTTP/1.1" 200 45858 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:00 -0700] "GET /article.php?id=21 HTTP/1.1" 200 49349 "-" "panscient.com" "www.saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:01 -0700] "GET /article.php?id=21 HTTP/1.1" 200 49349 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:03 -0700] "GET /article.php?id=64 HTTP/1.1" 200 47038 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:11 -0700] "GET /article.php?id=63 HTTP/1.1" 200 45508 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:13 -0700] "GET /article.php?id=61 HTTP/1.1" 200 56345 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:12:15 -0700] "GET /article.php?id=13 HTTP/1.1" 200 60519 "-" "panscient.com" "www.saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:12:17 -0700] "GET /article.php?id=60 HTTP/1.1" 200 49029 "-" "panscient.com" "saveaslave.com"
+72.76.221.220 - - [31/Jul/2016:13:12:18 -0700] "GET /js/?S=A HTTP/1.1" 200 1685 "-" "panscient.com" "saveaslave.com"[0]
+72.76.221.220 - - [31/Jul/2016:13:12:23 -0700] "GET /who-we-are.php HTTP/1.1" 200 50828 "-" "panscient.com" "www.saveaslave.com"
+123.125.68.61 - - [31/Jul/2016:13:25:03 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36" "saveaslave.com"
+54.243.48.119 - - [31/Jul/2016:13:32:19 -0700] "GET /article.php?id=114 HTTP/1.1" 200 43904 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8" "www.saveaslave.com"[2]
+123.125.71.18 - - [31/Jul/2016:13:37:33 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:14:18:27 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:14:18:27 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+5.71.223.107 - - [31/Jul/2016:14:22:59 -0700] "GET /images/top.jpg HTTP/1.1" 200 50519 "https://www.google.co.uk/" "Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 GSA/6.1.28.21.arm" "www.saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:06 -0700] "GET /help.php HTTP/1.1" 200 52766 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /css/style.css HTTP/1.1" 200 7938 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /css/bootstrap.min.css HTTP/1.1" 200 123578 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /css/elements.css HTTP/1.1" 200 17857 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /gfeedfetcher.js HTTP/1.1" 200 9018 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /gajaxscroller.js HTTP/1.1" 200 9774 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:07 -0700] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:08 -0700] "GET /css/style-pages.css HTTP/1.1" 200 9894 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:09 -0700] "GET /images/social3.png HTTP/1.1" 200 4343 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:09 -0700] "GET /addarticle.php HTTP/1.1" 200 13682 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:09 -0700] "GET /indicator.gif HTTP/1.1" 200 878 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:09 -0700] "GET /css/down-arrow.png HTTP/1.1" 404 89 "http://saveaslave.com/css/elements.css" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:19 -0700] "GET /favicon.ico HTTP/1.1" 404 89 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:19 -0700] "GET /ico/favicon-16x16.png HTTP/1.1" 200 1129 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:19 -0700] "GET /ico/favicon-96x96.png HTTP/1.1" 200 4476 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:19 -0700] "GET /ico/favicon-32x32.png HTTP/1.1" 200 1892 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:01:20 -0700] "GET /ico/android-icon-192x192.png HTTP/1.1" 200 10097 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:15:04:02 -0700] "GET /index.html HTTP/1.1" 404 89 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "www.saveaslave.com"
+66.249.66.141 - - [31/Jul/2016:15:19:03 -0700] "GET /chad HTTP/1.1" 404 89 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "www.saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:19:12 -0700] "POST /help.php HTTP/1.1" 200 52005 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+172.126.223.37 - - [31/Jul/2016:15:19:15 -0700] "GET /addarticle.php HTTP/1.1" 200 13682 "http://saveaslave.com/help.php" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" "saveaslave.com"
+144.76.8.132 - - [31/Jul/2016:15:24:41 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+144.76.8.132 - - [31/Jul/2016:15:24:46 -0700] "GET /?tpl=appendices&Itemid=4 HTTP/1.1" 200 89977 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)" "www.saveaslave.com"
+208.115.113.86 - - [31/Jul/2016:15:30:35 -0700] "GET /article.php?id=2 HTTP/1.1" 200 48363 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)" "saveaslave.com"
+65.36.241.48 - - [31/Jul/2016:16:53:01 -0700] "HEAD / HTTP/1.1" 200 0 "-" "InternetSeer.com" "www.saveaslave.com"
+194.187.170.122 - - [31/Jul/2016:16:59:56 -0700] "GET /robots.txt HTTP/1.1" 200 48 "-" "Mozilla/5.0 (compatible; Qwantify/2.2w; +https://www.qwant.com/)/*" "www.saveaslave.com"
+194.187.170.122 - - [31/Jul/2016:16:59:58 -0700] "GET /article.php?id=5 HTTP/1.1" 200 46570 "-" "Mozilla/5.0 (compatible; Qwantify/2.2w; +https://www.qwant.com/)/*" "www.saveaslave.com"[1]
