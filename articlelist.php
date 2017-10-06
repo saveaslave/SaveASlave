@@ -23,6 +23,8 @@ if (isset($_GET['count']) && $_GET['count'] <> '') {
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body id="main_body" >
+<div class="container">
+<div class="row media">
 <?php 
 //Connect to the database
 include("/database.php");
@@ -42,8 +44,7 @@ $result = $conn->query($sql);
 while($row = $result->fetch_assoc()) { 
 ?>
 
-<div class="container">
-<div class=" row media">
+
 <?php
 
 if (isset($row["picture_1_filename"]) && $row["picture_1_filename"] <> '') {
