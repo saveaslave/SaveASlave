@@ -20,6 +20,7 @@ if (isset($_GET['count']) && $_GET['count'] <> '') {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <title><?php echo $article ?></title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body id="main_body" >
 <?php 
@@ -41,7 +42,8 @@ $result = $conn->query($sql);
 while($row = $result->fetch_assoc()) { 
 ?>
 
-<div class="media">
+<div class="container">
+<div class=" row media">
 <?php
 
 if (isset($row["picture_1_filename"]) && $row["picture_1_filename"] <> '') {
@@ -51,6 +53,7 @@ if (isset($row["picture_1_filename"]) && $row["picture_1_filename"] <> '') {
 	}
 
 ?>
+<div class="col-xs-12 col-sm-3 col-md-3">
 <a class="pull-left" href="<?php echo $style;?>article.php?id=<?php echo $row["id"]; ?>">
 <img class="media-object" src="images/article/<?php echo $row["picture_1_filename"]; ?>" alt="" width="<?php echo $width; ?>">
 </a>
@@ -67,7 +70,9 @@ if (isset($row["picture_1_filename"]) && $row["picture_1_filename"] <> '') {
 &nbsp;&nbsp;
 <a href="<?php echo $style;?>article.php?id=<?php echo $row["id"]; ?>"><?php echo $read_more; ?></a></span>
 </div>
-</div>	 
+</div> <!-- end .col-sm-3 -->
+</div> <!-- end .row -->
+</div> <!-- end .container -->
 <hr class="style11">	
 <?php 
 } 
