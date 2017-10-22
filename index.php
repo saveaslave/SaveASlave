@@ -1,10 +1,13 @@
-<?php include 'header-home.php'; ?>
+<?php include 'header.php'; ?>
 
-
+<div class="row">
+ <div class="col-xs-12">
+  <img src="images/logo/logo2.png" class="text-center">
+ </div>
+</div>
 
 <div class="col-md-8">
 
-<div class="wrap">
 
 					
 
@@ -21,35 +24,6 @@ Millions of men, women, and even children are forced into debt bondage, bonded l
 
 
 <br/>Send content; forward this. Tell somebody. This website was incorporated in Texas and needs the help of free people just like you from all over the world.</span>   
-
- <hr class="style13">	
-
-<?php $_GET['page'] = "index.html";
-
-@include($_SERVER['DOCUMENT_ROOT'] . "/listlink.php");  ?>
-
-<hr class="style11">
-
-<?php 
-
-$_GET['page'] = "index.html";
-
-@include($_SERVER['DOCUMENT_ROOT'] . "/articlelist.php"); 
-
-?>
-
-<h2><?php echo $add_an_article; ?></h2>
-
-<iframe src="addarticle.php" width="725" height="950" scrolling="no" align="top"></iframe>
-
-
-
-</div>     
+   
 
 </div>
-
-
-
-<?php include 'sidebar-home.php'; ?>	 
-
-<?php include 'footer.php'; ?>
